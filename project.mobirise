@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -131,7 +131,7 @@
             }
           },
           "title": "Welcome to my IAMA.",
-          "text": "<p>I will list my work, social media places and maybe answer some questions that end up in the FAQ.</p>",
+          "text": "<p>I will list my work, social media places and maybe answer some questions that end up in a FAQ.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
