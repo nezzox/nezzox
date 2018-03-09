@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -165,7 +165,7 @@
           "title1": "Social media",
           "caption1": "I am active every day in some form of social media. Facebook and Instagram are probably the ones I use most.",
           "title2": "Personal life",
-          "caption2": "I was born in 1981, and that makes me forever young. I have two children with my wife and I live in Norrköping, Sweden.",
+          "caption2": "I was born in 1981, and that makes me forever young! I live in Norrköping, Sweden, with my wife and two children.",
           "title3": "Hobbies",
           "caption3": "I do a variety of things. But my favourite things are tv-series. And I watch a lot of it. I am well over 20.000 watched episodes and counting at the moment.",
           "title4": "Work",
