@@ -18,3 +18,43 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-8 .nav .link,
+#dropdown-menu-8 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-8 .navbar,
+#dropdown-menu-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-8 .dropdown-menu a:hover,
+#dropdown-menu-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-8 .navbar-toggler {
+  color: #000000;
+}
