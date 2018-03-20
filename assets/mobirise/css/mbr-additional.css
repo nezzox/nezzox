@@ -89,6 +89,11 @@
 }
 #testimonials1-f .card-footer > div P {
   text-align: left;
+  font-size: 14px;
+}
+#testimonials1-f .card-footer > div {
+  text-align: left;
+  font-size: 14px;
 }
 #dropdown-menu-j .hide-buttons [data-button] {
   display: none !important;
