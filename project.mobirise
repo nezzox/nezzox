@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -21,7 +21,7 @@
     "google-analytics": "",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -176,6 +176,15 @@
           ],
           "_name": "content4",
           "_anchor": "content4-6"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Check out my CV</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a"
         },
         {
           "_params": {
