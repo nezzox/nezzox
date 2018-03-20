@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -131,8 +131,8 @@
               "size": 0
             }
           },
-          "title": "Welcome to my IAMA.",
-          "text": "<p>I will list my work, social media places and maybe answer some questions that end up in a FAQ.</p>",
+          "title": "Welcome to my presentation.",
+          "text": "<p>I will list my experiences, social media places and maybe answer some questions that someday might end up in a FAQ.<br><i>- Jonathan Gryveken</i></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -169,7 +169,7 @@
           "title3": "Hobbies",
           "caption3": "I do a variety of things. But my favourite things are tv-series. And I watch a lot of it. I am well over 20.000 watched episodes and counting at the moment.",
           "title4": "Work",
-          "caption4": "I am a store manager since a couple of years. But I can't say that I'm not looking for that next adventure. The possibility to grow and earn more money is always exciting.",
+          "caption4": "I am currently looking for that next adventure. The possibility to grow and learn is always exciting.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -481,13 +481,13 @@
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Twitter",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "YouTube",
+          "title3": "TvTime",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Facebook",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.instagram.com/nezzox/\" class=\"btn btn-white-outline btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/nezzox\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/user/RandomInternetThings\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.tvtime.com/en/user/18734633/profile\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Nezzox\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit</a>",
           "alias": "purity/components",
           "_tags": [
