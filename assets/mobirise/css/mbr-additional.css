@@ -58,6 +58,12 @@
 #dropdown-menu-8 .navbar-toggler {
   color: #000000;
 }
+#msg-box3-i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #dropdown-menu-d .hide-buttons [data-button] {
   display: none !important;
 }
@@ -83,12 +89,6 @@
 }
 #testimonials1-f .card-footer > div P {
   text-align: left;
-}
-#msg-box3-i .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-i .mbr-header .mbr-header__subtext {
-  text-align: center;
 }
 #dropdown-menu-j .hide-buttons [data-button] {
   display: none !important;

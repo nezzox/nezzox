@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -555,6 +555,46 @@
       "components": [
         {
           "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Do you want to hire me?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Feel free to contact me.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-i"
+        },
+        {
+          "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
@@ -808,11 +848,11 @@
             },
             {
               "authorName": "<p>Store manager</p>",
-              "authorBio": "Teknikmagasinet, 2014-current",
+              "authorBio": "Teknikmagasinet, 2014-2018",
               "text": "<em>“Store managare at a tech-store with responsibilites like recruiting, budget, personnel and the overall operational responsibility.”</em>"
             },
             {
-              "authorName": "Freelance",
+              "authorName": "Freelance<br>Availible at various times",
               "authorBio": "",
               "text": "<em>“Does freelance work sometimes as a consult. Building webpages, managing computers, troubleshooting, advising and more.”</em>"
             }
@@ -834,46 +874,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-h"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Do you want to hire me?",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Feel free to contact me.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-i"
         }
       ]
     },
