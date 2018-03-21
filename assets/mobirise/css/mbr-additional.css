@@ -158,3 +158,23 @@
 #dropdown-menu-14 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-1e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1e .nav .link,
+#dropdown-menu-1e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1e .navbar,
+#dropdown-menu-1e .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1e .dropdown-menu a:hover,
+#dropdown-menu-1e .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1e .navbar-toggler {
+  color: #000000;
+}
