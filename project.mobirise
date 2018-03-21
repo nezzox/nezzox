@@ -1645,7 +1645,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1j"
+          "_anchor": "header3-1j",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
