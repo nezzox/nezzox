@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "This site uses cookies. Not the ones you eat, the ones that give you a better experience on the site.",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116243370-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116243370-1');\r\n</script>",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
     "uniqCompNum": 58,
