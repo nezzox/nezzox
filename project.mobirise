@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "This site uses cookies. Not the ones you eat, the ones that give you a better experience on the site.",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116243370-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116243370-1');\r\n</script>",
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
     "uniqCompNum": 58,
@@ -30,7 +30,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Jonathan Gryveken personal website. Presentation of my work, hobbies and portfolio. Get in contact with me, hire me, get to know me!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -239,7 +239,8 @@
     "page1.html": {
       "settings": {
         "title": "Contact",
-        "order": 7
+        "order": 7,
+        "meta_descr": "Get in contact with me."
       },
       "components": [
         {
@@ -347,7 +348,8 @@
     "page2.html": {
       "settings": {
         "title": "Social Media",
-        "order": 6
+        "order": 6,
+        "meta_descr": "Where you can find me."
       },
       "components": [
         {
@@ -670,7 +672,7 @@
       "settings": {
         "title": "CV",
         "order": 5,
-        "meta_descr": ""
+        "meta_descr": "List of my work."
       },
       "components": [
         {
@@ -1005,7 +1007,8 @@
     "page4.html": {
       "settings": {
         "title": "Portfolio",
-        "order": 4
+        "order": 4,
+        "meta_descr": "A brief demonstration of my work."
       },
       "components": [
         {
@@ -1232,7 +1235,8 @@
     "page5.html": {
       "settings": {
         "title": "Donate",
-        "order": 3
+        "order": 3,
+        "meta_descr": "Buy me a coffe or help to the betterment of my financial situation."
       },
       "components": [
         {
@@ -1480,7 +1484,8 @@
     "page6.html": {
       "settings": {
         "title": "Apps",
-        "order": 2
+        "order": 2,
+        "meta_descr": "A collection of my apps."
       },
       "components": [
         {
@@ -1581,7 +1586,8 @@
     "page7.html": {
       "settings": {
         "title": "Freelance",
-        "order": 1
+        "order": 1,
+        "meta_descr": "Hire me for freelance work."
       },
       "components": [
         {
