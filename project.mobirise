@@ -11,8 +11,8 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsText": "User-agent: *\nAllow: /\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
     "siteUrl": "https://nezzox.github.io/nezzox/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Jonathan Gryveken",
         "meta_descr": "Jonathan Gryveken personal website. Presentation of my work, hobbies and portfolio. Get in contact with me, hire me, get to know me!",
         "header_custom": "",
         "footer_custom": "",
@@ -226,7 +226,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -658,7 +658,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -778,7 +778,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1222,7 +1222,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1471,7 +1471,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1573,7 +1573,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1765,7 +1765,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 H. Nezzox J. N. G.&nbsp;",
+          "text": "Copyright (c) 2018 H. Nezzox J. N. G. &nbsp;| <a href=\"page1.html\">Contact</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
