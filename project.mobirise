@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nezzox",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Jonathan Gryveken",
+        "title": "Home - Jonathan Gryveken",
         "meta_descr": "Jonathan Gryveken personal website. Presentation of my work, hobbies and portfolio. Get in contact with me, hire me, get to know me!",
         "header_custom": "",
         "footer_custom": "",
@@ -238,9 +238,9 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Contact",
+        "title": "Contact - Jonathan Gryveken",
         "order": 7,
-        "meta_descr": "Get in contact with me."
+        "meta_descr": "Get in contact with me. Jonathan Gryveken"
       },
       "components": [
         {
@@ -347,9 +347,9 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Social Media",
+        "title": "Social Media - Jonathan Gryveken",
         "order": 6,
-        "meta_descr": "Where you can find me."
+        "meta_descr": "Where you can find me. Jonathan Gryveken"
       },
       "components": [
         {
@@ -670,9 +670,9 @@
     },
     "page3.html": {
       "settings": {
-        "title": "CV",
+        "title": "CV - Jonathan Gryveken",
         "order": 5,
-        "meta_descr": "List of my work."
+        "meta_descr": "List of my work. Jonathan Gryveken"
       },
       "components": [
         {
@@ -1006,9 +1006,9 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Portfolio",
+        "title": "Portfolio - Jonathan Gryveken",
         "order": 4,
-        "meta_descr": "A brief demonstration of my work."
+        "meta_descr": "A brief demonstration of my work. Jonathan Gryveken"
       },
       "components": [
         {
@@ -1290,9 +1290,9 @@
     },
     "page5.html": {
       "settings": {
-        "title": "Donate",
+        "title": "Donate - Jonathan Gryveken",
         "order": 3,
-        "meta_descr": "Buy me a coffe or help to the betterment of my financial situation."
+        "meta_descr": "Buy me a coffe or help to the betterment of my financial situation. Jonathan Gryveken"
       },
       "components": [
         {
@@ -1539,9 +1539,9 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Apps",
+        "title": "Apps - Jonathan Gryveken",
         "order": 2,
-        "meta_descr": "A collection of my apps."
+        "meta_descr": "A collection of my apps. Jonathan Gryveken"
       },
       "components": [
         {
@@ -1641,9 +1641,9 @@
     },
     "page7.html": {
       "settings": {
-        "title": "Freelance",
+        "title": "Freelance - Jonathan Gryveken",
         "order": 1,
-        "meta_descr": "Hire me for freelance work."
+        "meta_descr": "Hire me for freelance work. Jonathan Gryveken"
       },
       "components": [
         {
