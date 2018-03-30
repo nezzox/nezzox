@@ -11,8 +11,8 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "robotsText": "User-agent: *\nAllow: /\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
     "siteUrl": "https://nezzox.github.io/nezzox/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
