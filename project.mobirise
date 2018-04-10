@@ -14,7 +14,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "https://nezzox.github.io/nezzox/",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "This site uses cookies. Not the ones you eat, the ones that give you a better experience on the site.",
