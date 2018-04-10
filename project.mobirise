@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteUrl": "",
+    "siteUrl": "https://nezzox.github.io/nezzox/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
