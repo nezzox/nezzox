@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "This site uses cookies. Not the ones you eat, the ones that give you a better experience on the site.",
-    "google-analytics": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5TQK568\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->\r\n\r\n<div itemscope itemtype=\"http://schema.org/Person\" style=\"display: none;\">\r\n<a itemprop=\"url\" href=\"https://nezzox.github.io/nezzox/index.html\"><div itemprop=\"name\"><strong>Jonathan Gryveken</strong></div>\r\n</a>\r\n<div itemscope itemtype=\"http://schema.org/Organization\"><span itemprop=\"name\">About me</span></div><div itemprop=\"jobtitle\">Freelance & more</div>\r\n<div itemprop=\"description\">I will list my experiences, social media places and maybe answer some questions.</div>\r\n</div>",
+    "google-analytics": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5TQK568\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
     "uniqCompNum": 62,
