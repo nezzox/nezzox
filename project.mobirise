@@ -45,8 +45,8 @@
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-family": "'Alegreya Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#ffffff"
@@ -67,9 +67,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -278,9 +278,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -391,9 +391,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -758,9 +758,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -1058,9 +1058,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -1346,9 +1346,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -1599,9 +1599,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
@@ -1727,9 +1727,9 @@
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#000000"
           },
