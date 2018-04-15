@@ -21,9 +21,10 @@
     "google-analytics": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5TQK568\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "4.7.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "global-footer": "<script type=\"application/ld+json\">\r\n{\r\n  \"@context\": \"http://schema.org/\",\r\n  \"@type\": \"Person\",\r\n  \"name\": \"Jonathan Gryveken\",\r\n  \"alternateName\": \"Nezzox\",\r\n  \"url\": \"https://nezzox.github.io/nezzox/index.html\",\r\n  \"image\": \"https://nezzox.github.io/nezzox/assets/images/jpg-family-crest-complete-1000x1097.jpg\",\r\n  \"sameAs\": [\r\n    \"https://www.facebook.com/Nezzox\",\r\n    \"https://www.instagram.com/nezzox/\",\r\n    \"https://www.youtube.com/c/jonathangryveken\"\r\n  ],\r\n  \"jobTitle\": \"Konsultant\",\r\n  \"worksFor\": {\r\n    \"@type\": \"Organization\",\r\n    \"name\": \"Freelance\"\r\n  }  \r\n}\r\n</script>"
   },
   "pages": {
     "index.html": {
